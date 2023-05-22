@@ -1,1 +1,1 @@
-console.log("Hello from Lihini!");
+console.log("Hello from Lihini! It's a new addition");
